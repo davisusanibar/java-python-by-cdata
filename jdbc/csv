@@ -1,0 +1,4 @@
+"INT_FIELD1","BOOL_FIELD2","BIGINT_FIELD5","CHAR_FIELD16"
+101,true,1000000000300,"some char text  "
+102,true,100000000030,"some char text  "
+103,true,10000000003,"some char text  "
