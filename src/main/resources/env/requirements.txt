@@ -1,3 +1,3 @@
 jpype1 #conda install -c conda-forge jpype1
 pyarrow #conda install -c conda-forge pyarrow
-pip install cffi
+cffi #conda install -c anaconda cffi

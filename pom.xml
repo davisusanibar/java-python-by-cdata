@@ -53,12 +53,6 @@
           <artifactId>h2</artifactId>
           <version>2.1.214</version>
       </dependency>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>3.8.1</version>
-      <scope>test</scope>
-    </dependency>
   </dependencies>
     <build>
         <plugins>
@@ -72,7 +66,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>org.example.cdata.JavaReaderApi</mainClass>
+                            <mainClass>org.example.cdata.ShareArrowReaderAPI</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
